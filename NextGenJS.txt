@@ -1,0 +1,9 @@
+export default Person : 
+                        Here, we can name anything while importing
+                        import Person from './Person'
+                        OR
+                        import prs from './Person'
+
+export const baseData : 
+                        We have to give the same name that we used for importing.
+                        import {baseData} from './utility'
