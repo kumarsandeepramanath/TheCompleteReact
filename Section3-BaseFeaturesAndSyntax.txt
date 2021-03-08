@@ -1,0 +1,2 @@
+Dependency Management : Used to get additional module           Ex.npm or yarn
+Bundler               : Used to bundle the code to a small size Ex. Webpack
