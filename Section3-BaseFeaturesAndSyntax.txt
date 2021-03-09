@@ -3,3 +3,7 @@ Bundler               : Used to bundle the code to a small size Ex. Webpack
 Babel                 : Compiles Next-Gen Javascript          
 
 <div> which is seen in JSX is not the HTML but its the React version of a <div>
+
+Important Difference between the this.setState(class) and personSetState(functional) is that, if we miss out
+any parameters in the personSetState, then they will be exluded from the Object
+However, in the setState(), only the changes we need in an object can be updated
